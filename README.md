@@ -1,4 +1,4 @@
-Note App
+#Note App
 A simple and intuitive note-taking app built to help you keep track of your thoughts, tasks, and ideas. This app leverages modern technologies for a seamless and efficient user experience.
 
 Features
