@@ -40,7 +40,7 @@ DELETE /notes/{id}: Delete a note.
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-To ensure the smooth running of the Note App, it's crucial to have the backend API up and running. The backend API is responsible for handling operations such as creating, retrieving, updating, and deleting notes. The API is available in a sub-branch of the main project repository.
+To ensure the smooth running of the Note App, it's crucial to have the backend API up and running. The backend API is responsible for handling operations such as creating, retrieving, updating, and deleting notes. The API is available in a repository named ApiForNoteApp.
 
 Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
